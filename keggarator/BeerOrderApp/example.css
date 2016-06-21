@@ -1,0 +1,68 @@
+/*
+ * Copyright 2015-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License").
+ * You may not use this file except in compliance with the License.
+ * A copy of the License is located at
+ *
+ *  http://aws.amazon.com/apache2.0
+ *
+ * or in the "license" file accompanying this file. This file is distributed
+ * on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
+ * express or implied. See the License for the specific language governing
+ * permissions and limitations under the License.
+ */
+
+.spacer {
+   height: 200px ;
+}
+
+.block {
+   position: relative ;
+   width:900px ;
+   margin-left: auto ;
+   margin-right: auto ;
+   text-align: center ;
+}
+
+.settings {
+   background-color:#FFFFFF ;
+   width: 500px ;
+   text-align: left ;
+   margin-left: auto ;
+   margin-right: auto ;
+   margin-bottom: 2px ;
+   padding-top: 2px ;
+   padding-bottom: 2px ;
+   display: block ;
+   color: #0A0A0A ;
+}
+
+p {
+   margin-left: 10px ;
+   margin-right: 10px ;
+}
+
+#phone-number-label {
+  position: relative;
+  right: 5px;
+  width: 150px;
+  height: 20px;
+}
+
+#phone-number-field {
+  position: relative;
+  left: 5px;
+  width: 150px;
+  height: 20px;
+}
+
+#beer-button {
+  position: relative;
+  top: 20px;
+}
+
+#beer-button-pressed {
+  position: relative;
+  top: -80px;
+}
