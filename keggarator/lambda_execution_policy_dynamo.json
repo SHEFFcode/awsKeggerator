@@ -9,7 +9,7 @@
                 "dynamodb:Scan"
             ],
             "Resource": [
-                "arn:aws:dynamodb:us-east-1:<YOUR AWS ACCOUNT ID>:table/BeerRequests"
+                "arn:aws:dynamodb:us-east-1:172886367576:table/BeerRequests"
             ]
         }
     ]
